@@ -35,11 +35,11 @@ show all previous commit for future ref.
 
 **REMOTE REPO.**
 
-git remote add origin https://github.com/rahul-project/Project-AlmaBetter.git
+git remote add origin https://github.com/rahul-project/ProjectAlmaBetter.git
 
 git remote -v
-origin  https://github.com/rahul-project/Project-AlmaBetter.git (fetch)
-origin  https://github.com/rahul-project/Project-AlmaBetter.git (push)
+origin  https://github.com/rahul-project/ProjectAlmaBetter.git (fetch)
+origin  https://github.com/rahul-project/ProjectAlmaBetter.git (push)
 "checking purpose"
 
 git push origin master
@@ -48,7 +48,7 @@ goto repo-->setting-->collaborator-->add people
 
 -------------------------------------------------------------
 
-git clone https://github.com/rahul-project/Project-AlmaBetter.git
+git clone https://github.com/rahul-project/ProjectAlmaBetter.git
 git clone in other friend repo
 
 **make a chage do again**
