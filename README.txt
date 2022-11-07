@@ -51,7 +51,7 @@ goto repo-->setting-->collaborator-->add people
 git clone https://github.com/rahul-project/ProjectAlmaBetter.git
 git clone in other friend repo
 
-**make a chage do again**
+**make a change do again**
 git add .
 add all file inside the repo. (if you want to move your file from staging area.)
 
@@ -70,3 +70,4 @@ Create React App is a comfortable environment for learning React, and is the bes
 npx create-react-app resume-building-app
 // cd my-app
 // npm start
+**make a change do again**
