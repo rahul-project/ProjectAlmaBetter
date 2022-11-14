@@ -1,0 +1,57 @@
+div.btna {
+  text-align: end;
+  padding-right: 50px;
+  border-top: 2px solid rgb(216, 210, 210);
+}
+button.btn.btn-outline-primary,
+button.btn.btn-primary {
+  padding: 5px 50px;
+  margin-top: 10px;
+}
+
+.m-Box {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+.Box {
+  box-shadow: 0px 0px 25px rgb(0 0 0 / 25%);
+  padding: 20px 20px 50px 60px;
+  border-radius: 10px;
+  width: 900px;
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  margin-right: 5%;
+  margin-top: 15%;
+  position: inherit;
+}
+.box1 {
+  padding: 0px 80px 10px 0;
+}
+.changePhoto {
+  background-color: white;
+  border: none;
+  font-size: 14px;
+  color: rgb(0, 102, 255);
+  padding-left: 0px;
+}
+div.col {
+  padding: 10px 15px;
+}
+.div-col {
+  padding: 10px 0px;
+}
+.div-col-col {
+  padding: 10px 10px 90px 0;
+}
+.ProfileImg {
+  position: relative;
+  margin: auto;
+  width: 20%;
+  text-align: left;
+  height: 20%;
+  left: 15px;
+  border-radius: 50%;
+}
