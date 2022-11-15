@@ -1,5 +1,5 @@
 import React from 'react'
-import WorkExpBody from '../workExpBody'
+import WorkExpBody from '../WorkExperience/workExpBody'
 
 const WorkExp = () => {
   return <WorkExpBody />
