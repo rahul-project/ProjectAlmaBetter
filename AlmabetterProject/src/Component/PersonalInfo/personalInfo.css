@@ -1,12 +1,26 @@
+.App {
+  /* text-align: center;
+  background-color: aliceblue;
+  width: 100vw;
+  height: 100vh; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+body {
+  margin: 0%;
+  padding: 0%;
+}
 .btna {
   text-align: end;
   padding-right: 50px;
   border-top: 2px solid rgb(216, 210, 210);
 }
-button.btn.btn-outline-primary,
-button.btn.btn-primary {
+.btn-outline-primary,
+.btn-primary {
   padding: 5px 50px;
   margin-top: 10px;
+  margin-right: 10px;
 }
 
 .m-Box {

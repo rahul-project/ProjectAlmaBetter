@@ -123,27 +123,27 @@ const PersonalInfoBody = () => {
             />
           </div>
         </div>
-        <div className="form-group  div-col-col">
-          <label for="Objectives">Objectives</label>
-          <textarea
-            className="form-control"
-            id="Objectives"
-            type="textarea"
-            name="Objectives"
-            rows={3}
-            placeholder="Enter your objectives..."
-            value={inputs.Objectives || ''}
-            onChange={handleChange}
-          ></textarea>
-        </div>
-        <div className="btna">
-          <button type="button" class="btn btn-outline-primary">
-            Back
-          </button>
-          <button type="submit" className="btn btn-primary">
-            Next
-          </button>
-        </div>
+      </div>
+      <div className="form-group div-col-col">
+        <label for="Objectives">Objectives</label>
+        <textarea
+          className="form-control "
+          id="Objectives"
+          type="textarea"
+          name="Objectives"
+          rows={3}
+          placeholder="Enter your objectives..."
+          value={inputs.Objectives || ''}
+          onChange={handleChange}
+        ></textarea>
+      </div>
+      <div className="btna">
+        <button type="button" class="btn btn-outline-primary">
+          Back
+        </button>
+        <button type="submit" className="btn btn-primary">
+          Next
+        </button>
       </div>
     </form>
   )
