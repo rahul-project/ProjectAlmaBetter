@@ -1,4 +1,4 @@
-div.btna {
+.btna {
   text-align: end;
   padding-right: 50px;
   border-top: 2px solid rgb(216, 210, 210);
@@ -37,14 +37,14 @@ button.btn.btn-primary {
   color: rgb(0, 102, 255);
   padding-left: 0px;
 }
-div.col {
+.col {
   padding: 10px 15px;
 }
 .div-col {
   padding: 10px 0px;
 }
 .div-col-col {
-  padding: 10px 10px 90px 0;
+  padding: 10px 10px 70px 0;
 }
 .ProfileImg {
   position: relative;
